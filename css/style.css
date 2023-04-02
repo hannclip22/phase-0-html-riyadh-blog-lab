@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Arial);
 
 html, body {
   height: 100%;
@@ -20,13 +20,13 @@ body {
 }
 
 #content {
-  padding: 20px;
+  padding: 10px;
   background: rgba(255,255,255,.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #28c1e7;
 }
 
 h1 {
